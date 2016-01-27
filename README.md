@@ -1,1 +1,1 @@
-# ProductCatalogConfig
+# Configurations
