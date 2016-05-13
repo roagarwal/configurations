@@ -1,0 +1,3 @@
+DB_USER: bwuser
+DB_PASSWORD: '#!Ro4ouDfwo/aHDOXhZK2SjXEYnjLE5/APDVqeAqn7HfA='
+DB_URL: jdbc:postgresql://52.8.233.34:5432/postgres
